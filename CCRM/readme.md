@@ -78,3 +78,14 @@ To disable assertions:
 
 text
 java -da -cp bin edu.ccrm.Main
+
+The Screenshot Shows the working of the project 
+
+<img width="862" height="265" alt="Screenshot 2025-09-23 at 8 30 19 PM" src="https://github.com/user-attachments/assets/54e0b7bc-7809-47a2-8a6a-ff18f7fe6eb0" />
+<img width="867" height="725" alt="Screenshot 2025-09-23 at 8 29 50 PM" src="https://github.com/user-attachments/assets/09b1f065-b0b7-4459-aa4f-0e1ee841820c" />
+<img width="858" height="628" alt="Screenshot 2025-09-23 at 8 29 31 PM" src="https://github.com/user-attachments/assets/12f9cbc5-5109-4605-9e4a-f732249faf6d" />
+<img width="797" height="300" alt="Screenshot 2025-09-23 at 8 21 02 PM" src="https://github.com/user-attachments/assets/96df23e2-d1c2-4033-a115-8bb565c0e577" />
+
+
+
+
